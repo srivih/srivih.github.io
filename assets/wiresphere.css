@@ -137,10 +137,10 @@ a.nice-link:hover>.hover>span:nth-child(4) {
     background: #463760
 }
 .stage>.backgroundStack>.backgroundStack-noise {
-    background: url(../_assets/noise.gif)
+    background: url(../assets/noise.gif)
 }
 .stage>.backgroundStack>.backgroundStack-pic {
-    background: url(../_pics/background.jpg) center center no-repeat;
+    background: url(../pics/background.jpg) center center no-repeat;
     background-size: cover
 }
 .stage>.backgroundStack>.backgroundStack-3d {
